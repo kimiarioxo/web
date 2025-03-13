@@ -1,0 +1,114 @@
+body{
+     background-color: black;
+     color: white;
+     margin: 0;
+}
+#genel{
+    width: auto;
+    height: auto;
+    position: relative;
+}
+#usermenu1{
+    width: 350px;
+    height: 700px;
+    position: relative;
+    float: left;
+    top: 70px;
+    left: 300px;
+}
+#usermenu2{
+    width: 350px;
+    height: 700px;
+    position: relative;
+    float: right;
+    top: 70px;
+    right: 300px;
+}
+.ustmenu{
+    width: 350px;
+    height: 150px;
+    border-radius: 50px;   
+    border: 1px solid white;
+}
+.fotomenu{
+    position: relative;
+    width: 100px;
+    height: 150px;
+    float: left;
+}
+#user1{
+    width: 75px;
+    height: 75px;
+    position: relative;
+    top: 35px;
+    left: 20px;
+}
+#username1{
+    width: max-content;
+    height: auto;
+    top: 32px;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.253);
+}
+#usertext1{
+    position: relative;
+    top: 35px;
+    width: 125px;
+}
+#usertext2{
+    position: relative;
+    top: 35px;
+    width: 125px;
+}
+#userbutton1{
+    position: relative;
+    top: 40px;
+    width: 55px;
+    height: 30px;
+}
+.isimtext{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+.time{
+    position: relative;
+    width: 100px;
+    height: 150px;
+    float: left;
+}
+#useraltmenu1{
+    width: 350px;
+    height: 550px;
+    border-radius: 50px;
+    margin-top: 5px;
+    border: 1px solid white;
+}
+#useraltmenu2{
+    width: 350px;
+    height: 550px;
+    border-radius: 50px;
+    margin-top: 5px;
+    border: 1px solid white;
+}
+#chat1{
+    width: max-content;
+    height: fit-content;
+    border: 1px solid white;
+    top: 40px;
+    left: 20px;
+    position: relative;
+    max-width: 309px;
+    word-break: break-all;
+}
+#chat2{
+    width: max-content;
+    height: fit-content;
+    border: 1px solid red;
+    top: 40px;
+    left: 20px;
+    position: relative;
+    max-width: 309px;
+    word-break: break-all;
+}
